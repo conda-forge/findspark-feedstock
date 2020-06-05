@@ -33,7 +33,7 @@ test:
 about:
   home: https://github.com/minrk/findspark
   license_file: LICENSE.md
-  license: BSD 3-clause
+  license: BSD-3-clause
   license_family: BSD
   summary: Find pyspark to make it importable.
   dev_url: https://github.com/minrk/findspark
