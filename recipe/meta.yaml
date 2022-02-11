@@ -1,7 +1,7 @@
 {% set name = "findspark" %}
-{% set version = "2.0.0" %}
+{% set version = "2.0.1" %}
 {% set bundle = "tar.gz" %}
-{% set sha256 = "33e0ca84c2180eb5a4f9edebe63c84d17120deeefb699597f9e564baa3c846f1" %}
+{% set sha256 = "aa10a96cb616cab329181d72e8ef13d2dc453b4babd02b5482471a0882c1195e" %}
 {% set build = 0 %}
 
 package:
