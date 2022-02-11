@@ -3,7 +3,7 @@ About findspark
 
 Home: https://github.com/minrk/findspark
 
-Package license: BSD 3-clause
+Package license: BSD-3-clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/findspark-feedstock/blob/master/LICENSE.txt)
 
